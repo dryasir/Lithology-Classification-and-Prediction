@@ -1,11 +1,6 @@
 # Learning Across Wells: A Robust Framework for Lithology Classification and Prediction 
 
-Yasir Bashir* a, Zoonash Arshad b, Hülya Kurt a, Caner İmren a, Muhsan Ehsanc
-
-a Department of Geophysical Engineering, Faculty of Mines, İstanbul Technical University, İstanbul, Turkiye
-b Department of Earth and Atmospheric Sciences, University of Houston, Texas, USA
-c Department of Earth and Environmental Sciences, Bahria University, Islamabad, Pakistan
-
+Yasir Bashir*, Zoonash Arshad, Hülya Kurt, Caner İmren, Muhsan Ehsan
 
 ABSTRACT
 
