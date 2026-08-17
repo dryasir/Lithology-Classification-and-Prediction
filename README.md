@@ -1,7 +1,5 @@
 # Learning Across Wells: A Robust Framework for Lithology Classification and Prediction 
 
-Yasir Bashir*, Zoonash Arshad, Hülya Kurt, Caner İmren, Muhsan Ehsan
-
 # What is this repository for?
 
 This repository provides a machine learning framework for automated lithology classification and prediction from wireline-log data. It implements Random Forest (RF) and K-Nearest Neighbors (KNN) classifiers using shared petrophysical well-log measurements, including gamma ray (GR), bulk density (RHOB), corrected sonic transit time (DT_CORR), and effective porosity (PHIE).
@@ -55,4 +53,16 @@ The primary objective of this study is to develop and evaluate a robust machine 
 * Evaluate model agreement and prediction confidence between Random Forest and KNN, particularly for samples where the two classifiers produce different predictions.
 * Investigate the robustness of machine learning models to inter-well log variability, with particular emphasis on the performance advantage of ensemble-based Random Forest compared with the distance-based KNN approach.
 * Identify the limitations associated with lithology labels derived without core-calibrated ground truth or standardized petrophysical cut-offs, and discuss their implications for supervised machine learning.
-* Provide a reproducible framework for future lithology prediction studies and identify potential improvements, including the integration of resistivity logs, ensemble boosting methods, and core-calibrated lithology labels..
+* Provide a reproducible framework for future lithology prediction studies and identify potential improvements, including the integration of resistivity logs, ensemble boosting methods, and core-calibrated lithology labels.
+
+# Contact
+
+We welcome feedback, questions, suggestions, and discussions related to the use and further development of this repository. If you use this code in your research or have ideas for improving the workflow, please feel free to contact the author.
+
+Author and Technical Contact:
+# _Dr. Yasir Bashir_
+Department of Geophysics
+Istanbul Technical University (ITU), Türkiye
+Email: ybashir@itu.edu.tr, dryasir.bashir@live.com
+
+For questions related to the implementation, machine learning workflow, lithology classification, well-log processing, or reproducibility of the results presented in the paper, please contact Dr. Yasir Bashir.
